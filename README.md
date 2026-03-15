@@ -13,10 +13,13 @@ This project implements a character-level GPT style chatbot built from scratch u
 ## Technologies
 Python, PyTorch, NLP, Transformers, Kaggle GPU
 
+## Project Structure
+```
 gpt-chatbot-pytorch
 │
-├── chatbot.py
-├── training.py
-├── vocab.txt
-├── README.md
-└── notebook.ipynb
+├── chatbot.py # Inference script for generating chatbot responses
+├── training.py # Model training pipeline
+├── vocab.txt # Character vocabulary used for tokenization
+├── notebook.ipynb # Kaggle notebook for training and experimentation
+└── README.md # Project documentation
+```
