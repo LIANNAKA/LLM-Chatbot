@@ -1,5 +1,5 @@
 # GPT Chatbot using PyTorch
-Kaggle Notebook: https://www.kaggle.com/code/liannakadadi/notebook21a3b9ea48/edit/run/302443267
+Kaggle Notebook: https://www.kaggle.com/code/liannakadadi/notebook21a3b9ea48/edit/run/302443267](https://www.kaggle.com/code/liannakadadi/llm-gpt-style-chatbot)
 
 This project implements a character-level GPT style chatbot built from scratch using PyTorch.
 
